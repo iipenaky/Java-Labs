@@ -1,0 +1,60 @@
+Phiwayinkhosi Lukhele,precious,phiwalukhele551@gmail.com,1234,1,Twi
+Computer Science,Software engineer,I can talk for the whole world
+cats,manga,music,dance,animation,
+extrovert,sunshine yellow,
+YYYYYYYYY
+YYYYYYYYY
+YYYYYYYYY
+YYYYYYYYY
+YYYYYYYYY
+EOD
+Peniel Maame Akyireko Ansah,penaky,pennyansah@gmail.com,1234,Virtual,ENglish
+Computer SCience,Software Engineer,I'm the last born
+Machine Learning,Artificial Intelligence,Music,Dance,
+loving,kind,so nice,introver,
+YYYNYNYNY
+NYNYNYNYN
+YNYYYYNYN
+YNYNNNYNY
+NYNYNYNYN
+EOD
+Beatrice Abraham,beatrice,abraham@gmail.com,1234,Virtual,ENglish
+Computer Science,Cyber Secuirity,Ver very nice
+Machine learning,
+Smart,cool blue,
+YYYYYYYYY
+YYYYYYYYY
+YYYYYYYYY
+YYYYYYYYY
+YYYYYYYYY
+EOD
+Salome Bempong,sally,sally@gmail.com,1234,Virtual,English
+MIS,Information Technology,I have six fingers
+Machine Learning,
+smart,
+YYYYYYYYY
+YYYYYYYYY
+YYYYYYYYY
+YYYYYYYYY
+YYYYYYYYY
+EOD
+Bless Charles Oppong,akuaBless,charlesblessoppong@gmail.com,1234,Virtual,ENglish
+MIS,Accessibility,Have nine names
+Disability,Reading,Music,
+mean,introvert,cool blue,
+YYYYYNNYY
+YYYYYYYYY
+YYYYYYYYY
+YYYYYYYYY
+YYYYYYYYY
+EOD
+Lovette CarthyPhilips,lovette,philipslovette@gmail.com,1234,In Person,ENglish
+Computer SCience,Web Developer,I have 32 siblings
+Arts,Music,
+Introvert,mean,cool blue,
+YYYYYYYYY
+YYYYYYYYY
+YYYYYYYYY
+YYYYYYYYY
+YYYYYYYYY
+EOD
